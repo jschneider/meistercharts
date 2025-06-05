@@ -1,4 +1,4 @@
-= MasterCharts Release Notes
+= MeisterCharts Release Notes
 
 == 1.38.0
 
